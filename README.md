@@ -1,4 +1,6 @@
-# 🎬 VidDrop — YouTube Video İndirici
+![Demo](EkranKayd2026-03-08122944-ezgif.com-video-to-gif-converter.gif)# 
+
+🎬 VidDrop — YouTube Video İndirici
 
 Kendi bilgisayarında çalışan, yüksek kaliteli YouTube video indirme uygulaması.
 
